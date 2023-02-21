@@ -22,3 +22,5 @@ And just open the `Bank_Telemarketing_Data_Mining.ipynb` for jupyter notebook ru
 - [Another Blog Solution](https://towardsdatascience.com/machine-learning-case-study-a-data-driven-approach-to-predict-the-success-of-bank-telemarketing-20e37d46c31c)
 - [Titanic Kaggle Tutorials](https://kaggle.com/code/startupsci/titanic-data-science-solutions)
 - [Titanic Kaggle Top Solutions](https://medium.com/nerd-for-tech/analysis-of-bank-marketing-dataset-by-using-support-vector-machine-svm-1ccae6eaa782)
+
+> This is developed by `Xie Zicong` and `Tian Shengjie`.
